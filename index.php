@@ -64,9 +64,9 @@ include "./components/navbar.php";
           <div class="row justify-content-center">
             <div class="col-lg-10">
               <h2 class="fw-bold text-white"><span class="d-lg-block">Wide Range of Industries and Geographies </h2>
-              <p class="text-white">Nas Consulting Inc. is industry agnostic in many sectors, we have experiences with transaction with North America, Europe, Asia, Latin America,the middle East, Australia and Africa.</p>
+              <p class="text-white">Forethought kənˈsəlt. is industry agnostic in many sectors, we have experiences with transaction with North America, Europe, Asia, Latin America,the middle East, Australia and Africa.</p>
               <h3 class="text-white">Sectors for Any Business</h3>
-              <p class="text-white">Nas Consulting Inc. offers a comprehensive portfolio of financing products to meet any business needs.</p>
+              <p class="text-white">Forethought kənˈsəlt. offers a comprehensive portfolio of financing products to meet any business needs.</p>
             </div>
           </div>
         </div>
