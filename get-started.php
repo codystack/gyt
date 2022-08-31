@@ -59,7 +59,7 @@ require_once './auth/application.php';
                             <label for="floatingInput">Email address</label>
                         </div>
                         <div class="d-grid mb-2">
-                            <button type="sudmit" name="request_btn" class="btn btn-lg btn-dark">Request Form</button>
+                            <button type="sudmit" name="request_btn" class="btn btn-lg btn-black">Request Form</button>
                         </div>
                     </form>
                 </div>
@@ -72,7 +72,7 @@ require_once './auth/application.php';
         </div>
       </div>
     </div>
-    <figure class="background background-overlay" style="background-image: url('https://i.imgur.com/ttUNFYO.jpg')">
+    <figure class="background background-overlay" style="background-image: url('https://i.imgur.com/20JlGd0.jpg')">
     </figure>
   </section>
 
