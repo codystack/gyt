@@ -47,7 +47,7 @@ require_once './auth/application.php';
                     ?>
                     <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="POST" autocomplete="off">
                         <div class="form-floating mb-2">
-                            <input type="text" class="form-control" name="name" placeholder="Full name">
+                            <input type="text" class="form-control" name="fullName" placeholder="Full name">
                             <label for="floatingPassword">Full name</label>
                         </div>
                         <div class="form-floating mb-2">
